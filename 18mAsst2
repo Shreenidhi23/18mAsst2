@@ -1,0 +1,16 @@
+password=input("enter the password")
+
+while True:
+
+    if password=="Sai123$":
+
+        print("password is valid")
+
+        break
+
+    else:
+
+        print("password is invalid")
+        o/p:
+        enter the password shri123$
+        password is valid
